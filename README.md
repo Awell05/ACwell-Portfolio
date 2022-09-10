@@ -2,7 +2,7 @@
 
 ## Description
 
-Please view my portfolio of deployed web applications. By  developing my project, CSS knowledge were enhanced. 
+View my portfolio of deployed web applications. By  developing my project, CSS knowledge were enhanced. 
 <!-- Be sure to remove sections that are not applicable -->
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
